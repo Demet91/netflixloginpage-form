@@ -40,7 +40,7 @@
     height: 897px;
     background-color: rgba(0,0,0,0.8);
     margin: auto;
-    padding: 10px 40px;
+    padding: 30px 40px;
   }
   
   #survey-form{
@@ -78,4 +78,7 @@
   
   textarea{
     resize: none; 
+  }
+  #checkbox, #radio {
+    margin-top: 40px;
   }
